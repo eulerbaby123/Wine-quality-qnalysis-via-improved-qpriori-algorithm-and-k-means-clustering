@@ -1,6 +1,6 @@
 the zip is the code for Wine quality qnalysis via improved qpriori algorithm and k-means++ clustering
 
-if you want to apply the code to your research readour.txt for more imformations
+if you want to apply the code to your research. read readour.txt in the zip file for more imformations.
 due the limited time , i have too many exam , i don't have the time to write a detailed readme.md , I will come back during the Winter vacation!!!!!
 
 /////////////////////////////////////////////////////////////////////////////////////////
